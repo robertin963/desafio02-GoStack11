@@ -1,5 +1,6 @@
 {
   "name": "backend",
+  "autor" : "Roberto Caetano Pereira",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
